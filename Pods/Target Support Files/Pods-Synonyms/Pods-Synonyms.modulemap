@@ -1,0 +1,6 @@
+framework module Pods_Synonyms {
+  umbrella header "Pods-Synonyms-umbrella.h"
+
+  export *
+  module * { export * }
+}

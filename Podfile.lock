@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (4.4.0)
+  - GRDB.swift (0.102.0)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - GRDB.swift
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  GRDB.swift: d91023bca3912810d46a76ff5d1e1ac30da278e1
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 96daaf340a567a21f8b643b122420271c97b3915
+
+COCOAPODS: 1.2.0
